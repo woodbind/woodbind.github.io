@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://woodbind.github.io/woodbind/post/first_to_test/</loc>
+    <loc>https://woodbind.github.io/post/first_to_test/</loc>
     <lastmod>2017-03-08T13:11:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://woodbind.github.io/woodbind/</loc>
+    <loc>https://woodbind.github.io/</loc>
     <lastmod>2017-03-08T13:11:38+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://woodbind.github.io/woodbind/post/</loc>
+    <loc>https://woodbind.github.io/post/</loc>
     <lastmod>2017-03-08T13:11:38+08:00</lastmod>
     <priority>0</priority>
   </url>
