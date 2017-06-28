@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Not decided</title>
+    <title>Posts on Hugo tranquilpeak theme</title>
     <link>https://woodbind.github.io/post/index.xml</link>
-    <description>Recent content in Posts on Not decided</description>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jun 2017 13:11:38 +0800</lastBuildDate>
@@ -11,10 +11,10 @@
     
     <item>
       <title>first to test again</title>
-      <link>https://woodbind.github.io/post/first_to_test/</link>
+      <link>https://woodbind.github.io/2017/06/first-to-test-again/</link>
       <pubDate>Wed, 28 Jun 2017 13:11:38 +0800</pubDate>
       
-      <guid>https://woodbind.github.io/post/first_to_test/</guid>
+      <guid>https://woodbind.github.io/2017/06/first-to-test-again/</guid>
       <description>&lt;p&gt;Test using &lt;strong&gt;HUGO&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
